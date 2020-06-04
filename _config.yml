@@ -1,0 +1,18 @@
+# Site settings
+title: Talaia Labs
+description: ""
+url: "https://talaia.watch"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
