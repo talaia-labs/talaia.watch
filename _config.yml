@@ -1,7 +1,7 @@
 # Site settings
 title: Talaia Labs
 description: ""
-url: "https://talaia.watch"
+url: "https://www.talaia.watch"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
